@@ -1,0 +1,14 @@
+Este programa esta basado en https://www.youtube.com/watch?v=aNYX2F1RX-s&t=49s
+
+GIT:
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JGomez49/Finterest_Fazt.git
+git push -u origin main
+
+    …or push an existing repository from the command line
+        git remote add origin https://github.com/JGomez49/Finterest_Fazt.git
+        git branch -M main
+        git push -u origin main
+
