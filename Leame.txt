@@ -2,8 +2,9 @@ Este programa esta basado en https://www.youtube.com/watch?v=aNYX2F1RX-s&t=49s
 
 GIT:
 git init
-git commit -m "first commit"
 git branch -M main
+git add .
+git commit -m "first commit"
 git remote add origin https://github.com/JGomez49/Finterest_Fazt.git
 git push -u origin main
 
